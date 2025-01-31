@@ -7,7 +7,7 @@
     "description": "Aplikacja demonstracyjna dla gitów",
   "icons": [
     {
-      "src": "demobywatel/dowod_files/favicon.png",
+      "src": "https://twojastarazapierdala-arch.github.io/demobywatel/dowod_files/favicon.png",
       "sizes": "192x192",
       "type": "image/png"
     }]
